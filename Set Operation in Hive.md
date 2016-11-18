@@ -37,4 +37,5 @@ select combine(array('a','b','c'), array('b','c','d')) as combine
 ---
 ## Reference 
 [blog of  Kittipat Kampa] (https://sites.google.com/site/kittipat/data-science/setoperationsinhiveunionintersectsizeandjaccardindex)
+
 [Stack Overflow](http://stackoverflow.com/questions/21578477/array-intersect-hive?noredirect=1&lq=1)
