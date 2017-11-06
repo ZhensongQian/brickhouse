@@ -44,6 +44,9 @@ Do NOT bother to Clone
 ---------------
 Simply download `brickhouse-0.7.1-SNAPSHOT.jar`, then it's ready for use.
 
+
+Want Know More
+---------------
 See the wiki on Github at https://github.com/klout/brickhouse/wiki for more 
   information.
 
